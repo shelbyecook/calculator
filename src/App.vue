@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Calculator</h1>
+    <h1 style="margin-bottom: 0px">Calculator</h1>
     <Calculator/>
   </div>
 </template>
@@ -22,7 +22,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: yellow;
   margin-top: 60px;
 }
 </style>
